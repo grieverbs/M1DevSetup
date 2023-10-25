@@ -56,3 +56,7 @@ brew install gradle
 ```zsh
 brew install wget
 ```
+
+# Free Apis to play with
+- https://github.com/public-api-lists/public-api-lists
+- https://github.com/public-apis/public-apis#games--comics
